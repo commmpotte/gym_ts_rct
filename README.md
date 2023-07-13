@@ -1,3 +1,4 @@
+<img width="392" alt="Снимок экрана 2023-07-13 в 17 44 20" src="https://github.com/commmpotte/gym_ts_rct/assets/95095531/07aab4da-4bf9-4e4a-b196-2b3a989612ca">
 
 # Fitness Application
 
@@ -25,4 +26,6 @@ This repository contains the code for a one-page fitness application built using
 ## Screenshots
 
 And here is some pictures of my website for sure!
+![Uploading Снимок экрана 2023-07-13 в 17.43.45.png…]()
+![Uploading Снимок экрана 2023-07-13 в 17.43.36.png…]()
 
