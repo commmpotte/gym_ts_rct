@@ -1,3 +1,4 @@
+
 # Fitness Application
 
 This repository contains the code for a one-page fitness application built using React, Typescript, Vite, Tailwind CSS, Hero Icons, Framer Motion, Form Submit, and React Anchor Link Smooth Scroll. The application allows users to explore different fitness classes and get information about each class.
@@ -21,9 +22,7 @@ This repository contains the code for a one-page fitness application built using
 - Form Submit
 - React Anchor Link Smooth Scroll
 
-## Pictures
-<<<<<<< HEAD
+## Screenshots
 
-=======
->>>>>>> 0b3dc012546cc01137803a954ec787736a6665f1
-And here is some screenshots, for sure.
+And here is some pictures of my website for sure!
+
