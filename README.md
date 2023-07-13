@@ -22,5 +22,8 @@ This repository contains the code for a one-page fitness application built using
 - React Anchor Link Smooth Scroll
 
 ## Pictures
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0b3dc012546cc01137803a954ec787736a6665f1
 And here is some screenshots, for sure.
