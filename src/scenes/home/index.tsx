@@ -16,7 +16,7 @@ const Home = ({ setSelectedPage }: Props) => {
 
   return (
     <section id="home" className="gap-16 bg-gray-20 py-10 md:h-full">
-      {/* Image +Main header */}
+      {/* Image + Main header */}
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.Home)}
         className="mx-auto w-5/6 items-center justify-center md:flex md:h-5/6"
@@ -62,13 +62,13 @@ const Home = ({ setSelectedPage }: Props) => {
             <ActionButton setSelectedPage={setSelectedPage}>
               Join Now
             </ActionButton>
-            <AnchorLink
+            {/* <AnchorLink
               className="text-sm font-bold text-primary-500 underline hover:text-secondary-500"
               onClick={() => setSelectedPage(SelectedPage.ContactUs)}
               href={`${SelectedPage.ContactUs}`}
             >
               <p>Learn More</p>
-            </AnchorLink>
+            </AnchorLink> */}
           </motion.div>
         </div>
         {/* Image */}
